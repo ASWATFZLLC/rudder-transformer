@@ -12,7 +12,6 @@
   },
   "license": "ISC",
   "author": "",
-  "main": "GATransform.js",
   "scripts": {
     "dependency": "npm install",
     "lint": "eslint . || exit 0",
